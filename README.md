@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rajesh-cpy&color=blueviolet&style=flat-square&label=Profile+Views" alt="Visitor Count" />
-</div>
+
 
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" alt="wave"> I'm R. Rajesh
 
