@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Creative+Content+Creator;Passionate+about+Web+Development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Backend+Developer;Passionate+about+GenAI+Development" alt="Typing SVG" />
   </a>
 </div>
 
@@ -14,7 +14,6 @@
 
 I am a highly driven **MERN Stack Developer** with a deep passion for building robust, scalable, and visually stunning web applications. I thrive on turning complex problems into elegant digital experiences. 
 
-Beyond coding, I am an active content creator across **YouTube, Medium, and Instagram**, where I share my journey, coding tutorials, and tech insights with a growing community!
 
 - 💻 I’m currently building awesome full-stack applications with React, Node.js, and Express!
 - 🚀 I’m constantly learning and expanding my skill set in modern web technologies.
@@ -51,12 +50,6 @@ Beyond coding, I am an active content creator across **YouTube, Medium, and Inst
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rajesh-cpy&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="Rajesh's Trophies" />
-</div>
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -79,15 +72,7 @@ Beyond coding, I am an active content creator across **YouTube, Medium, and Inst
   <a href="https://portfolio-q81q.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://youtube.com/@Rajesh-cpy">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC_YOUR_CHANNEL_ID?style=for-the-badge&logo=youtube&logoColor=white&label=YouTube&color=FF0000" alt="YouTube" />
-  </a>
-  <a href="https://instagram.com/rajeshrangar">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://medium.com/@rajeshrangar">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
+  
 </div>
 
 <br/>
